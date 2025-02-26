@@ -1,0 +1,299 @@
+2024-10-19 11:26:37,052 INFO Watching for file changes with StatReloader
+2024-10-19 11:26:51,031 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:26:51,522 INFO Watching for file changes with StatReloader
+2024-10-19 11:27:08,884 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 11:27:33,183 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:27:55,831 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:07,021 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 11:28:23,219 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:23,717 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:28,585 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:29,072 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:31,873 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:32,361 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:36,186 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:36,678 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:40,511 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:40,999 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:43,814 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 11:28:44,324 INFO Watching for file changes with StatReloader
+2024-10-19 11:28:53,434 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 11:32:56,371 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:32:56,907 INFO Watching for file changes with StatReloader
+2024-10-19 11:41:27,129 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 11:44:37,731 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:45:57,316 INFO Watching for file changes with StatReloader
+2024-10-19 11:46:09,441 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 11:46:09,442 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 11:48:59,880 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:00,386 INFO Watching for file changes with StatReloader
+2024-10-19 11:49:03,196 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:03,687 INFO Watching for file changes with StatReloader
+2024-10-19 11:49:05,493 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:05,991 INFO Watching for file changes with StatReloader
+2024-10-19 11:49:11,841 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:12,373 INFO Watching for file changes with StatReloader
+2024-10-19 11:49:14,174 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:14,662 INFO Watching for file changes with StatReloader
+2024-10-19 11:49:24,612 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 11:49:25,138 INFO Watching for file changes with StatReloader
+2024-10-19 12:46:01,134 INFO Watching for file changes with StatReloader
+2024-10-19 12:46:13,485 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 12:46:13,486 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 12:49:17,718 INFO Watching for file changes with StatReloader
+2024-10-19 12:49:27,970 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 12:49:27,970 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 12:51:20,019 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:53:03,261 INFO Watching for file changes with StatReloader
+2024-10-19 12:53:11,635 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 12:53:11,635 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 12:54:43,119 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:54:43,662 INFO Watching for file changes with StatReloader
+2024-10-19 12:54:45,502 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:54:46,021 INFO Watching for file changes with StatReloader
+2024-10-19 12:55:05,155 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:55:05,679 INFO Watching for file changes with StatReloader
+2024-10-19 12:55:08,547 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:55:09,078 INFO Watching for file changes with StatReloader
+2024-10-19 12:55:19,084 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:55:19,590 INFO Watching for file changes with StatReloader
+2024-10-19 12:55:23,440 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 12:55:24,000 INFO Watching for file changes with StatReloader
+2024-10-19 12:56:06,170 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 12:56:06,171 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 12:59:49,026 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 12:59:49,535 INFO Watching for file changes with StatReloader
+2024-10-19 12:59:58,510 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 12:59:59,039 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:23,374 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:23,888 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:29,776 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:30,304 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:33,142 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:33,639 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:37,478 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:37,980 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:41,830 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:42,363 INFO Watching for file changes with StatReloader
+2024-10-19 13:00:47,253 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:00:47,780 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:02,821 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:03,348 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:07,194 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:07,702 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:22,823 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 13:01:22,824 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 13:01:34,144 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:34,662 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:36,488 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:37,005 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:38,819 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:39,324 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:43,152 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:43,668 INFO Watching for file changes with StatReloader
+2024-10-19 13:01:45,509 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:01:46,027 INFO Watching for file changes with StatReloader
+2024-10-19 13:03:58,470 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 13:03:58,470 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 13:04:50,533 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:04:51,080 INFO Watching for file changes with StatReloader
+2024-10-19 13:04:55,249 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:04:55,762 INFO Watching for file changes with StatReloader
+2024-10-19 13:04:56,889 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:04:57,366 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:00,540 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:01,032 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:04,198 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:04,689 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:17,062 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 13:05:17,063 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 13:05:32,229 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:32,763 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:35,622 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:36,150 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:40,022 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:40,581 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:41,709 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:42,276 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:44,168 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:05:44,687 INFO Watching for file changes with StatReloader
+2024-10-19 13:05:49,795 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 13:05:49,796 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 13:06:11,131 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:06:11,646 INFO Watching for file changes with StatReloader
+2024-10-19 13:06:15,954 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 13:06:15,954 ERROR Internal Server Error: /apis/send_email/
+2024-10-19 13:09:14,129 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:09:14,681 INFO Watching for file changes with StatReloader
+2024-10-19 13:09:16,537 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:09:17,099 INFO Watching for file changes with StatReloader
+2024-10-19 13:09:23,300 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:09:23,800 INFO Watching for file changes with StatReloader
+2024-10-19 13:09:29,571 INFO C:\Users\Hello\Desktop\book\demo\urls.py changed, reloading.
+2024-10-19 13:09:30,083 INFO Watching for file changes with StatReloader
+2024-10-19 13:09:44,174 INFO C:\Users\Hello\Desktop\book\demo\urls.py changed, reloading.
+2024-10-19 13:09:44,709 INFO Watching for file changes with StatReloader
+2024-10-19 13:11:46,346 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:14:46,506 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:14:47,045 INFO Watching for file changes with StatReloader
+2024-10-19 13:14:48,705 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:14:49,195 INFO Watching for file changes with StatReloader
+2024-10-19 13:14:59,152 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:14:59,664 INFO Watching for file changes with StatReloader
+2024-10-19 13:15:04,373 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:15:04,865 INFO Watching for file changes with StatReloader
+2024-10-19 13:15:18,940 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:15:19,444 INFO Watching for file changes with StatReloader
+2024-10-19 13:16:16,347 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:16:16,859 INFO Watching for file changes with StatReloader
+2024-10-19 13:16:18,670 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:19:04,971 INFO Watching for file changes with StatReloader
+2024-10-19 13:19:40,813 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:20:17,300 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:20:17,812 INFO Watching for file changes with StatReloader
+2024-10-19 13:20:19,637 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:20:20,154 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:01,911 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:02,413 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:48,818 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:49,336 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:51,157 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:51,673 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:55,836 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:56,322 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:57,436 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:57,950 INFO Watching for file changes with StatReloader
+2024-10-19 13:22:59,081 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:22:59,565 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:00,684 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:01,155 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:09,356 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:09,839 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:14,008 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:14,512 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:15,634 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:16,110 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:20,269 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:20,758 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:50,156 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:50,686 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:52,820 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:53,337 INFO Watching for file changes with StatReloader
+2024-10-19 13:23:56,495 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:23:56,981 INFO Watching for file changes with StatReloader
+2024-10-19 13:24:42,645 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:24:43,212 INFO Watching for file changes with StatReloader
+2024-10-19 13:24:46,362 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:24:46,879 INFO Watching for file changes with StatReloader
+2024-10-19 13:24:50,030 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:24:50,593 INFO Watching for file changes with StatReloader
+2024-10-19 13:24:53,753 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:24:54,253 INFO Watching for file changes with StatReloader
+2024-10-19 13:24:55,372 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:24:55,881 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:24,232 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:24,757 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:28,678 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:29,203 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:32,347 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:32,832 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:44,102 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:44,644 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:45,775 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:46,297 INFO Watching for file changes with StatReloader
+2024-10-19 13:25:55,524 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:25:56,028 INFO Watching for file changes with StatReloader
+2024-10-19 13:26:03,493 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:27:00,245 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:00,805 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:04,532 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:05,067 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:07,943 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:08,463 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:10,351 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:10,867 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:12,730 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:13,279 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:18,156 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:18,685 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:20,525 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:21,066 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:25,961 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:27:39,420 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:39,942 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:41,829 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:42,355 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:44,228 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:44,746 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:48,529 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:27:49,053 INFO Watching for file changes with StatReloader
+2024-10-19 13:27:59,072 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:28:53,306 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:29:24,443 INFO Watching for file changes with StatReloader
+2024-10-19 13:29:33,140 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:38:51,709 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:38:52,268 INFO Watching for file changes with StatReloader
+2024-10-19 13:38:54,181 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:38:54,703 INFO Watching for file changes with StatReloader
+2024-10-19 13:39:04,324 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:39:24,263 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:39:24,800 INFO Watching for file changes with StatReloader
+2024-10-19 13:39:35,744 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:42:11,355 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:42:11,899 INFO Watching for file changes with StatReloader
+2024-10-19 13:42:34,192 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:42:34,775 INFO Watching for file changes with StatReloader
+2024-10-19 13:42:36,670 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:42:37,228 INFO Watching for file changes with StatReloader
+2024-10-19 13:42:39,102 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:42:39,653 INFO Watching for file changes with StatReloader
+2024-10-19 13:45:05,417 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:45:05,967 INFO Watching for file changes with StatReloader
+2024-10-19 13:45:10,904 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 13:45:11,435 INFO Watching for file changes with StatReloader
+2024-10-19 13:45:17,407 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 13:45:17,942 INFO Watching for file changes with StatReloader
+2024-10-19 13:46:50,749 INFO Watching for file changes with StatReloader
+2024-10-19 13:47:18,644 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:47:36,336 INFO Watching for file changes with StatReloader
+2024-10-19 13:48:03,278 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 13:49:27,503 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:49:28,099 INFO Watching for file changes with StatReloader
+2024-10-19 13:49:29,231 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 13:49:29,750 INFO Watching for file changes with StatReloader
+2024-10-19 13:49:35,299 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 15:10:20,133 INFO Watching for file changes with StatReloader
+2024-10-19 15:12:29,695 INFO Watching for file changes with StatReloader
+2024-10-19 15:14:46,018 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 15:29:50,010 INFO C:\Users\Hello\Desktop\book\demo\email_service.py changed, reloading.
+2024-10-19 15:29:50,466 INFO Watching for file changes with StatReloader
+2024-10-19 15:29:57,243 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 15:29:57,644 INFO Watching for file changes with StatReloader
+2024-10-19 15:30:29,751 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 16:03:56,355 INFO Watching for file changes with StatReloader
+2024-10-19 16:04:04,101 DEBUG Sending email to: ['Nilkanth.koffeekodes@gmail.com']
+2024-10-19 16:04:06,647 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 16:04:06,649 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 16:15:13,948 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 16:15:14,359 INFO Watching for file changes with StatReloader
+2024-10-19 16:15:58,799 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 16:15:59,203 INFO Watching for file changes with StatReloader
+2024-10-19 16:16:38,449 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 16:16:38,834 INFO Watching for file changes with StatReloader
+2024-10-19 16:16:50,991 DEBUG Sending email to: ['Nilkanth.koffeekodes@gmail.com']
+2024-10-19 16:17:01,517 ERROR Error sending email: Connection unexpectedly closed
+2024-10-19 16:17:01,520 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 16:17:35,458 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 16:17:35,827 INFO Watching for file changes with StatReloader
+2024-10-19 16:17:39,450 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 16:17:39,836 INFO Watching for file changes with StatReloader
+2024-10-19 16:17:41,440 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 16:17:41,816 INFO Watching for file changes with StatReloader
+2024-10-19 16:17:46,448 INFO C:\Users\Hello\Desktop\book\demo\views.py changed, reloading.
+2024-10-19 16:17:46,813 INFO Watching for file changes with StatReloader
+2024-10-19 16:17:49,507 DEBUG Sending email to: ['Nilkanth.koffeekodes@gmail.com']
+2024-10-19 16:17:51,307 ERROR Error sending email: (535, b'Authentication Failed')
+2024-10-19 16:17:51,307 ERROR Internal Server Error: /apis/send-notification/
+2024-10-19 16:22:54,951 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
+2024-10-19 16:22:59,310 INFO Watching for file changes with StatReloader
+2024-10-19 16:23:15,168 INFO C:\Users\Hello\Desktop\book\book\settings.py changed, reloading.
