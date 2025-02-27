@@ -24,5 +24,5 @@ from rest_framework.decorators import api_view
 from email.utils import formataddr
 
 
-# Create your views here.
+# Create your views here. 
  
